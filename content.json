@@ -40,7 +40,14 @@
         "First Name": "John",
         "Last Name": "Doe",
         "Date of birth": "1981-02-16T23:00:00.000Z",
-        "email": "john@doe.com"
+        "email": "john@doe.com",
+        "Address": {
+            "googleplace": "Chaussée de Louvain 89, Saint-Josse-ten-Noode, Brussels, Belgium",
+            "number": "89",
+            "street": "Chaussée de Louvain",
+            "city": "Saint-Josse-ten-Noode",
+            "postalCode": "1210"
+        }
     },
     "Professional Experience": {
         "0": []
