@@ -1,1 +1,54 @@
-{}
+{
+    "Personalia": {
+        "Contract information": {
+            "Comments": "John Doe is an <b><i>excellent</i></b> programme manager."
+        },
+        "Profile for which employee is entered": {
+            "0": {
+                "selectedChoices": {
+                    "Senior Analyst-Programmer (SAP)": true,
+                    "Project manager (PM)": true,
+                    "Analyst (AN)": true
+                }
+            }
+        },
+        "Highest relevant educational qualification": {
+            "0": {
+                "selectedChoice": "Master degree or equivalent (>=4 years)"
+            }
+        },
+        "Languages": {
+            "English": {
+                "Spoken": 4,
+                "Written": 4
+            },
+            "French": {
+                "Spoken": 1
+            },
+            "German": {},
+            "Other(s)": {
+                "0": [
+                    {
+                        "Language": "Spanish",
+                        "Spoken": 4,
+                        "Written": 3
+                    }
+                ]
+            }
+        },
+        "Professional experience": {},
+        "First Name": "John",
+        "Last Name": "Doe",
+        "Date of birth": "1981-02-16T23:00:00.000Z",
+        "email": "john@doe.com"
+    },
+    "Professional Experience": {
+        "0": []
+    },
+    "Software Expertise": {
+        "0": []
+    },
+    "Training Page": {
+        "0": []
+    }
+}
